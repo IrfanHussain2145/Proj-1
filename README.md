@@ -3,7 +3,7 @@
 
 Submitted by: **Irfan Hussain**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**Name of your app** is an app that introduces ... [Launch screens, view controllers, buttons, and images] 
 
 Time spent: **7** hours spent in total
 
