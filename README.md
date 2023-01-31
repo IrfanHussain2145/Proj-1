@@ -1,36 +1,37 @@
 # Proj-1
-# Project 1 - *Name of App Here*
+# Project 1 - *Proj-1*
 
-Submitted by: **Your Name Here**
+Submitted by: **Irfan Hussain**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**Name of your app** is an app that introduces ... [Launch screens, view controllers, buttons, and images] 
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
+- [ x ] Users are able to see a customized app icon and launch screen
 - [ ] Your app should work for any screen size and orientation using AutoLayout constraints
   - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [ ] Users are able to see at least 3 context items
-- [ ] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
+- [ x ] Users are able to see at least 3 context items
+- [ x ] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface through styling and coloring
+- [ x ] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ x ] List anything else that you can get done to improve the app functionality!
+- [ x ] Implemented Navigation Control with back button on sub pages
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./Kapture 2023-01-25 at 22.44.54.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./projGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
