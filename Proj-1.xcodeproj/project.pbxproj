@@ -16,6 +16,13 @@
 		5CA5D97A2981AB1C009A8DAD /* Proj_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA5D9792981AB1C009A8DAD /* Proj_1Tests.swift */; };
 		5CA5D9842981AB1C009A8DAD /* Proj_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA5D9832981AB1C009A8DAD /* Proj_1UITests.swift */; };
 		5CA5D9862981AB1C009A8DAD /* Proj_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA5D9852981AB1C009A8DAD /* Proj_1UITestsLaunchTests.swift */; };
+		5CA5D9972981B6FF009A8DAD /* Batman.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5CA5D9962981B6FF009A8DAD /* Batman.jpeg */; };
+		5CA5D9992981B79A009A8DAD /* BatmanLogo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5CA5D9982981B79A009A8DAD /* BatmanLogo.jpeg */; };
+		5CA5D99B2981B881009A8DAD /* bat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5CA5D99A2981B881009A8DAD /* bat.jpeg */; };
+		5CA5D99D2981B963009A8DAD /* BatmanStrong.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5CA5D99C2981B963009A8DAD /* BatmanStrong.jpeg */; };
+		5CA5D99F2981D2DF009A8DAD /* Launch.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CA5D99E2981D2DF009A8DAD /* Launch.png */; };
+		5CA5D9A52981D6C5009A8DAD /* Sub View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA5D9A42981D6C5009A8DAD /* Sub View.swift */; };
+		5CA5D9A72981DB2C009A8DAD /* Batman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA5D9A62981DB2C009A8DAD /* Batman.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +56,13 @@
 		5CA5D97F2981AB1C009A8DAD /* Proj-1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Proj-1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CA5D9832981AB1C009A8DAD /* Proj_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Proj_1UITests.swift; sourceTree = "<group>"; };
 		5CA5D9852981AB1C009A8DAD /* Proj_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Proj_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5CA5D9962981B6FF009A8DAD /* Batman.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Batman.jpeg; sourceTree = "<group>"; };
+		5CA5D9982981B79A009A8DAD /* BatmanLogo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BatmanLogo.jpeg; sourceTree = "<group>"; };
+		5CA5D99A2981B881009A8DAD /* bat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bat.jpeg; sourceTree = "<group>"; };
+		5CA5D99C2981B963009A8DAD /* BatmanStrong.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BatmanStrong.jpeg; sourceTree = "<group>"; };
+		5CA5D99E2981D2DF009A8DAD /* Launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Launch.png; sourceTree = "<group>"; };
+		5CA5D9A42981D6C5009A8DAD /* Sub View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sub View.swift"; sourceTree = "<group>"; };
+		5CA5D9A62981DB2C009A8DAD /* Batman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Batman.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +117,14 @@
 				5CA5D9642981AB1A009A8DAD /* SceneDelegate.swift */,
 				5CA5D9662981AB1A009A8DAD /* ViewController.swift */,
 				5CA5D9682981AB1A009A8DAD /* Main.storyboard */,
+				5CA5D9A42981D6C5009A8DAD /* Sub View.swift */,
+				5CA5D9A62981DB2C009A8DAD /* Batman.swift */,
+				5CA5D9962981B6FF009A8DAD /* Batman.jpeg */,
+				5CA5D99C2981B963009A8DAD /* BatmanStrong.jpeg */,
+				5CA5D9982981B79A009A8DAD /* BatmanLogo.jpeg */,
+				5CA5D99A2981B881009A8DAD /* bat.jpeg */,
 				5CA5D96B2981AB1C009A8DAD /* Assets.xcassets */,
+				5CA5D99E2981D2DF009A8DAD /* Launch.png */,
 				5CA5D96D2981AB1C009A8DAD /* LaunchScreen.storyboard */,
 				5CA5D9702981AB1C009A8DAD /* Info.plist */,
 			);
@@ -231,9 +252,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CA5D99D2981B963009A8DAD /* BatmanStrong.jpeg in Resources */,
 				5CA5D96F2981AB1C009A8DAD /* LaunchScreen.storyboard in Resources */,
 				5CA5D96C2981AB1C009A8DAD /* Assets.xcassets in Resources */,
+				5CA5D9992981B79A009A8DAD /* BatmanLogo.jpeg in Resources */,
+				5CA5D9972981B6FF009A8DAD /* Batman.jpeg in Resources */,
 				5CA5D96A2981AB1A009A8DAD /* Main.storyboard in Resources */,
+				5CA5D99F2981D2DF009A8DAD /* Launch.png in Resources */,
+				5CA5D99B2981B881009A8DAD /* bat.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +286,8 @@
 			files = (
 				5CA5D9672981AB1A009A8DAD /* ViewController.swift in Sources */,
 				5CA5D9632981AB1A009A8DAD /* AppDelegate.swift in Sources */,
+				5CA5D9A52981D6C5009A8DAD /* Sub View.swift in Sources */,
+				5CA5D9A72981DB2C009A8DAD /* Batman.swift in Sources */,
 				5CA5D9652981AB1A009A8DAD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
