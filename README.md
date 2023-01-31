@@ -1,11 +1,11 @@
 # Proj-1
-# Project 1 - *Name of App Here*
+# Project 1 - *Proj-1*
 
-Submitted by: **Your Name Here**
+Submitted by: **Irfan Hussain**
 
 **Name of your app** is an app that introduces ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
