@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ x ] List anything else that you can get done to improve the app functionality!
+- [ x ] Implemented Navigation Control with back button on sub pages
 
 ## Video Walkthrough
 
